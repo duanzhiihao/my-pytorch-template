@@ -53,4 +53,4 @@ TBD
 
 
 ## License
-Code in this repository is freely available for non-commercial use.
+TBD
